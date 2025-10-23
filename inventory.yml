@@ -1,0 +1,7 @@
+hosts:
+  webserver:
+    ssh_address: 127.0.0.1
+    ssh_port: 2222
+    identifier:
+      ssh_user: kevin
+      ssh_password: kevin
